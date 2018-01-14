@@ -1,0 +1,18 @@
+
+Eratosthenes sieve.sln
+Debug/Eratosthenes sieve.exe
+Debug/Eratosthenes sieve.ilk
+Debug/Eratosthenes sieve.pdb
+Eratosthenes sieve/.vs/Eratosthenes sieve/v15/.suo
+*.db
+*.ipch
+*.tlog
+*.log
+*.obj
+*.pch
+*.idb
+Eratosthenes sieve/stdafx.cpp
+*.h
+*.vcxproj
+*.filters
+*.pdb
